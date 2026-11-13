@@ -1,7 +1,9 @@
 # Labirent-Ajan-
 
 Pygame ile yazılmış, 20x50 hücrelik bir labirentte BFS algoritmasıyla beraber yapılmış bir en kısa yolu bulma projesi.
-Özellikler
+
+
+Özellikler:
 Kullanıcılar labirente istediği gibi duvarlar ekleyip silebilir ve değişiklik yapabilir.
 BFS'in taradığı kareler animasyonla gösterilir
 Hedefe ulaşıldığında bulunan en kısa yolu çizme ve adım sayısını yazma
